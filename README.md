@@ -114,3 +114,24 @@ While developing, you can test your plugins by placing your folder (or compiled 
 > By default, TechyPad blocks any unverified or unsigned scripts and plugins for security. To test your plugin locally, you must open the TechyPad settings and toggle **Developer Mode** to **ON**. 
 
 Restart TechyPad, and your new actions will appear in the **Button Configuration** menu!
+
+
+## 🌐 TechyPad Ecosystem
+
+The Plugin SDK is just one part of the complete TechyPad development ecosystem. Depending on what you're building, you may also need these repositories:
+
+### 🛠️ TechyPad Setup
+Install drivers, the desktop application, and everything required to get your TechyPad up and running before developing plugins.
+
+➡️ https://github.com/techypad/techy-pad-setup
+
+---
+
+### 🎨 TechyPad Icon SDK
+Create beautiful, consistent icons for your plugins with the official icon templates, guidelines, and export tools.
+
+➡️ https://github.com/techypad/TechyPad-Icon-SDK
+
+---
+
+⭐ If this SDK helps you build something awesome, consider starring the repository and sharing your plugin with the community!
